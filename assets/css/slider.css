@@ -6,12 +6,11 @@
     width: 62%;
     max-width: none;
     display: flex;
-    overflow: auto;
 }
 
 #slider .slider-container .slider-wrap .before-img img {
     max-width: none;
-    height: 100% !important;
+    height: 234px !important;
 }
 
 #slider .slider-container {
